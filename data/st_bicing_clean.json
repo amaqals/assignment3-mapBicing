@@ -1,0 +1,3243 @@
+[
+  {
+    "id": 1,
+    "type": "BIKE",
+    "latitude": 41.397952000000004,
+    "longitude": 2.180042,
+    "nearbyStations": "24, 369, 387, 426"
+  },
+  {
+    "id": 2,
+    "type": "BIKE",
+    "latitude": 41.39553,
+    "longitude": 2.17706,
+    "nearbyStations": "368, 387"
+  },
+  {
+    "id": 3,
+    "type": "BIKE",
+    "latitude": 41.394055,
+    "longitude": 2.181299,
+    "nearbyStations": "4, 6, 119, 419"
+  },
+  {
+    "id": 4,
+    "type": "BIKE",
+    "latitude": 41.39348,
+    "longitude": 2.181555,
+    "nearbyStations": "3, 5, 359, 419"
+  },
+  {
+    "id": 5,
+    "type": "BIKE",
+    "latitude": 41.391075,
+    "longitude": 2.180223,
+    "nearbyStations": "6, 7, 359, 418"
+  },
+  {
+    "id": 6,
+    "type": "BIKE",
+    "latitude": 41.391349,
+    "longitude": 2.1806099999999997,
+    "nearbyStations": "5, 8, 359, 419"
+  },
+  {
+    "id": 7,
+    "type": "BIKE",
+    "latitude": 41.388856,
+    "longitude": 2.183251,
+    "nearbyStations": "8, 118, 389"
+  },
+  {
+    "id": 8,
+    "type": "BIKE",
+    "latitude": 41.389088,
+    "longitude": 2.183568,
+    "nearbyStations": "6, 118, 389"
+  },
+  {
+    "id": 9,
+    "type": "BIKE",
+    "latitude": 41.384532,
+    "longitude": 2.184921,
+    "nearbyStations": "40, 389, 390"
+  },
+  {
+    "id": 11,
+    "type": "BIKE",
+    "latitude": 41.381689,
+    "longitude": 2.193914,
+    "nearbyStations": "116, 124, 125, 396"
+  },
+  {
+    "id": 12,
+    "type": "BIKE",
+    "latitude": 41.384538,
+    "longitude": 2.195679,
+    "nearbyStations": "11, 13, 116, 396"
+  },
+  {
+    "id": 13,
+    "type": "BIKE",
+    "latitude": 41.386860999999996,
+    "longitude": 2.195761,
+    "nearbyStations": "11, 12, 46, 69"
+  },
+  {
+    "id": 14,
+    "type": "BIKE",
+    "latitude": 41.384675,
+    "longitude": 2.1850389999999997,
+    "nearbyStations": "40, 389, 390"
+  },
+  {
+    "id": 15,
+    "type": "BIKE",
+    "latitude": 41.394812,
+    "longitude": 2.171189,
+    "nearbyStations": "23, 25"
+  },
+  {
+    "id": 16,
+    "type": "BIKE",
+    "latitude": 41.398270000000004,
+    "longitude": 2.1867080000000003,
+    "nearbyStations": "17, 44, 48, 372"
+  },
+  {
+    "id": 17,
+    "type": "BIKE",
+    "latitude": 41.398237,
+    "longitude": 2.186711,
+    "nearbyStations": "16, 48, 211, 372"
+  },
+  {
+    "id": 18,
+    "type": "BIKE",
+    "latitude": 41.406086,
+    "longitude": 2.1741669999999997,
+    "nearbyStations": 370
+  },
+  {
+    "id": 19,
+    "type": "BIKE",
+    "latitude": 41.403282,
+    "longitude": 2.1707259999999997,
+    "nearbyStations": "29, 370"
+  },
+  {
+    "id": 20,
+    "type": "BIKE",
+    "latitude": 41.410166,
+    "longitude": 2.175759,
+    "nearbyStations": "21, 177"
+  },
+  {
+    "id": 21,
+    "type": "BIKE",
+    "latitude": 41.410897,
+    "longitude": 2.17402,
+    "nearbyStations": 28
+  },
+  {
+    "id": 22,
+    "type": "BIKE",
+    "latitude": 41.401684,
+    "longitude": 2.17568,
+    "nearbyStations": "29, 369, 370"
+  },
+  {
+    "id": 23,
+    "type": "BIKE",
+    "latitude": 41.392526000000004,
+    "longitude": 2.171812,
+    "nearbyStations": "15, 363"
+  },
+  {
+    "id": 24,
+    "type": "BIKE",
+    "latitude": 41.400659000000005,
+    "longitude": 2.1791110000000002,
+    "nearbyStations": "1, 369, 426"
+  },
+  {
+    "id": 25,
+    "type": "BIKE",
+    "latitude": 41.395179,
+    "longitude": 2.168294,
+    "nearbyStations": 15
+  },
+  {
+    "id": 26,
+    "type": "BIKE",
+    "latitude": 41.407035,
+    "longitude": 2.181981,
+    "nearbyStations": 177
+  },
+  {
+    "id": 27,
+    "type": "BIKE",
+    "latitude": 41.396896999999996,
+    "longitude": 2.164373,
+    "nearbyStations": "189, 224, 374"
+  },
+  {
+    "id": 28,
+    "type": "BIKE",
+    "latitude": 41.405421999999994,
+    "longitude": 2.17064,
+    "nearbyStations": "122, 277"
+  },
+  {
+    "id": 29,
+    "type": "BIKE",
+    "latitude": 41.401132000000004,
+    "longitude": 2.170028,
+    "nearbyStations": "224, 370"
+  },
+  {
+    "id": 30,
+    "type": "BIKE",
+    "latitude": 41.402046,
+    "longitude": 2.182286,
+    "nearbyStations": "24, 218, 369"
+  },
+  {
+    "id": 31,
+    "type": "BIKE",
+    "latitude": 41.37481,
+    "longitude": 2.18895,
+    "nearbyStations": "33, 39, 41, 124"
+  },
+  {
+    "id": 32,
+    "type": "BIKE",
+    "latitude": 41.373698,
+    "longitude": 2.188927,
+    "nearbyStations": "31, 33, 124, 400"
+  },
+  {
+    "id": 33,
+    "type": "BIKE",
+    "latitude": 41.376862,
+    "longitude": 2.190773,
+    "nearbyStations": "31, 41, 124, 424"
+  },
+  {
+    "id": 34,
+    "type": "BIKE",
+    "latitude": 41.387074,
+    "longitude": 2.175247,
+    "nearbyStations": "36, 105, 359, 380"
+  },
+  {
+    "id": 35,
+    "type": "BIKE",
+    "latitude": 41.413592,
+    "longitude": 2.2211529999999997,
+    "nearbyStations": "157, 158, 159, 160"
+  },
+  {
+    "id": 36,
+    "type": "BIKE",
+    "latitude": 41.385151,
+    "longitude": 2.176804,
+    "nearbyStations": "34, 35, 53, 358, 380"
+  },
+  {
+    "id": 37,
+    "type": "BIKE",
+    "latitude": 41.381226,
+    "longitude": 2.1818880000000003,
+    "nearbyStations": "38, 126, 401"
+  },
+  {
+    "id": 38,
+    "type": "BIKE",
+    "latitude": 41.381129,
+    "longitude": 2.186397,
+    "nearbyStations": "39, 40, 124, 126"
+  },
+  {
+    "id": 39,
+    "type": "BIKE",
+    "latitude": 41.381046000000005,
+    "longitude": 2.1865759999999996,
+    "nearbyStations": "38, 40, 124, 126"
+  },
+  {
+    "id": 40,
+    "type": "BIKE",
+    "latitude": 41.382335,
+    "longitude": 2.187093,
+    "nearbyStations": "37, 38, 116, 402"
+  },
+  {
+    "id": 41,
+    "type": "BIKE",
+    "latitude": 41.379326,
+    "longitude": 2.189906,
+    "nearbyStations": "31, 39, 124, 424"
+  },
+  {
+    "id": 42,
+    "type": "BIKE",
+    "latitude": 41.404511,
+    "longitude": 2.189881,
+    "nearbyStations": "44, 133, 286"
+  },
+  {
+    "id": 43,
+    "type": "BIKE",
+    "latitude": 41.405409999999996,
+    "longitude": 2.18712,
+    "nearbyStations": "42, 44, 218"
+  },
+  {
+    "id": 44,
+    "type": "BIKE",
+    "latitude": 41.402285,
+    "longitude": 2.1871110000000002,
+    "nearbyStations": "42, 286"
+  },
+  {
+    "id": 45,
+    "type": "BIKE",
+    "latitude": 41.391428999999995,
+    "longitude": 2.1893119999999997,
+    "nearbyStations": "47, 118, 392, 409"
+  },
+  {
+    "id": 46,
+    "type": "BIKE",
+    "latitude": 41.388359,
+    "longitude": 2.193004,
+    "nearbyStations": "47, 69, 392, 407"
+  },
+  {
+    "id": 47,
+    "type": "BIKE",
+    "latitude": 41.389831,
+    "longitude": 2.191147,
+    "nearbyStations": "13, 46, 392, 407"
+  },
+  {
+    "id": 48,
+    "type": "BIKE",
+    "latitude": 41.396085,
+    "longitude": 2.187073,
+    "nearbyStations": "16, 118, 149, 211"
+  },
+  {
+    "id": 49,
+    "type": "BIKE",
+    "latitude": 41.391059999999996,
+    "longitude": 2.196457,
+    "nearbyStations": "46, 117, 163, 396"
+  },
+  {
+    "id": 50,
+    "type": "BIKE",
+    "latitude": 41.375,
+    "longitude": 2.17035,
+    "nearbyStations": "114, 232"
+  },
+  {
+    "id": 51,
+    "type": "BIKE",
+    "latitude": 41.384054,
+    "longitude": 2.169019,
+    "nearbyStations": 51
+  },
+  {
+    "id": 53,
+    "type": "BIKE",
+    "latitude": 41.385227,
+    "longitude": 2.1738779999999998,
+    "nearbyStations": "34, 36, 380"
+  },
+  {
+    "id": 54,
+    "type": "BIKE",
+    "latitude": 41.377635,
+    "longitude": 2.170586,
+    "nearbyStations": "114, 415"
+  },
+  {
+    "id": 55,
+    "type": "BIKE",
+    "latitude": 41.381153999999995,
+    "longitude": 2.1734970000000002,
+    "nearbyStations": "54, 378, 379"
+  },
+  {
+    "id": 56,
+    "type": "BIKE",
+    "latitude": 41.377010999999996,
+    "longitude": 2.175834,
+    "nearbyStations": "54, 57, 378, 425"
+  },
+  {
+    "id": 57,
+    "type": "BIKE",
+    "latitude": 41.376758,
+    "longitude": 2.177093,
+    "nearbyStations": "114, 361, 378"
+  },
+  {
+    "id": 58,
+    "type": "BIKE",
+    "latitude": 41.382822,
+    "longitude": 2.167154,
+    "nearbyStations": "51, 381"
+  },
+  {
+    "id": 59,
+    "type": "BIKE",
+    "latitude": 41.382781,
+    "longitude": 2.1672029999999998,
+    "nearbyStations": "51, 381"
+  },
+  {
+    "id": 60,
+    "type": "BIKE",
+    "latitude": 41.390349,
+    "longitude": 2.16424,
+    "nearbyStations": "61, 80"
+  },
+  {
+    "id": 61,
+    "type": "BIKE",
+    "latitude": 41.390143,
+    "longitude": 2.164946,
+    "nearbyStations": "80, 287"
+  },
+  {
+    "id": 62,
+    "type": "BIKE",
+    "latitude": 41.387142,
+    "longitude": 2.168858,
+    "nearbyStations": "64, 65"
+  },
+  {
+    "id": 63,
+    "type": "BIKE",
+    "latitude": 41.386439,
+    "longitude": 2.1694169999999997,
+    "nearbyStations": "62, 64, 65"
+  },
+  {
+    "id": 64,
+    "type": "BIKE",
+    "latitude": 41.387469,
+    "longitude": 2.169048,
+    "nearbyStations": "62, 65"
+  },
+  {
+    "id": 65,
+    "type": "BIKE",
+    "latitude": 41.387678,
+    "longitude": 2.169587,
+    "nearbyStations": "62, 64"
+  },
+  {
+    "id": 66,
+    "type": "BIKE",
+    "latitude": 41.389097,
+    "longitude": 2.167933,
+    "nearbyStations": "61, 64, 79, 287"
+  },
+  {
+    "id": 67,
+    "type": "BIKE",
+    "latitude": 41.385011999999996,
+    "longitude": 2.145843,
+    "nearbyStations": "75, 89"
+  },
+  {
+    "id": 68,
+    "type": "BIKE",
+    "latitude": 41.395364,
+    "longitude": 2.157356,
+    "nearbyStations": "72, 374"
+  },
+  {
+    "id": 69,
+    "type": "BIKE",
+    "latitude": 41.386814,
+    "longitude": 2.195689,
+    "nearbyStations": "12, 13, 125, 397"
+  },
+  {
+    "id": 70,
+    "type": "BIKE",
+    "latitude": 41.380347,
+    "longitude": 2.160695,
+    "nearbyStations": "71, 113"
+  },
+  {
+    "id": 71,
+    "type": "BIKE",
+    "latitude": 41.381931,
+    "longitude": 2.162969,
+    "nearbyStations": 113
+  },
+  {
+    "id": 72,
+    "type": "BIKE",
+    "latitude": 41.392716,
+    "longitude": 2.158811,
+    "nearbyStations": "68, 374"
+  },
+  {
+    "id": 73,
+    "type": "BIKE",
+    "latitude": 41.392278000000005,
+    "longitude": 2.156183,
+    "nearbyStations": "68, 72, 76"
+  },
+  {
+    "id": 74,
+    "type": "BIKE",
+    "latitude": 41.390062,
+    "longitude": 2.143272,
+    "nearbyStations": 102
+  },
+  {
+    "id": 75,
+    "type": "BIKE",
+    "latitude": 41.385081,
+    "longitude": 2.142868,
+    "nearbyStations": 99
+  },
+  {
+    "id": 76,
+    "type": "BIKE",
+    "latitude": 41.391751,
+    "longitude": 2.153123,
+    "nearbyStations": 72
+  },
+  {
+    "id": 78,
+    "type": "BIKE",
+    "latitude": 41.385598,
+    "longitude": 2.16338,
+    "nearbyStations": "71, 79"
+  },
+  {
+    "id": 79,
+    "type": "BIKE",
+    "latitude": 41.38547,
+    "longitude": 2.1633299999999998,
+    "nearbyStations": 287
+  },
+  {
+    "id": 80,
+    "type": "BIKE",
+    "latitude": 41.389687,
+    "longitude": 2.159999,
+    "nearbyStations": 394
+  },
+  {
+    "id": 81,
+    "type": "BIKE",
+    "latitude": 41.378915,
+    "longitude": 2.1491740000000004,
+    "nearbyStations": 97
+  },
+  {
+    "id": 82,
+    "type": "BIKE",
+    "latitude": 41.379016,
+    "longitude": 2.1537990000000002,
+    "nearbyStations": 112
+  },
+  {
+    "id": 83,
+    "type": "BIKE",
+    "latitude": 41.384075,
+    "longitude": 2.153654,
+    "nearbyStations": "89, 110"
+  },
+  {
+    "id": 84,
+    "type": "BIKE",
+    "latitude": 41.383047,
+    "longitude": 2.157033,
+    "nearbyStations": 110
+  },
+  {
+    "id": 85,
+    "type": "BIKE",
+    "latitude": 41.375076,
+    "longitude": 2.159046,
+    "nearbyStations": "112, 129, 236"
+  },
+  {
+    "id": 86,
+    "type": "BIKE",
+    "latitude": 41.375440000000005,
+    "longitude": 2.1630000000000003,
+    "nearbyStations": 85
+  },
+  {
+    "id": 87,
+    "type": "BIKE",
+    "latitude": 41.383156,
+    "longitude": 2.1485060000000002,
+    "nearbyStations": 191
+  },
+  {
+    "id": 88,
+    "type": "BIKE",
+    "latitude": 41.393547,
+    "longitude": 2.150764,
+    "nearbyStations": "76, 220, 350"
+  },
+  {
+    "id": 89,
+    "type": "BIKE",
+    "latitude": 41.38824,
+    "longitude": 2.150252,
+    "nearbyStations": "76, 110"
+  },
+  {
+    "id": 90,
+    "type": "BIKE",
+    "latitude": 41.38834,
+    "longitude": 2.150825,
+    "nearbyStations": "76, 89"
+  },
+  {
+    "id": 91,
+    "type": "BIKE",
+    "latitude": 41.380452000000005,
+    "longitude": 2.158403,
+    "nearbyStations": "112, 113"
+  },
+  {
+    "id": 92,
+    "type": "BIKE",
+    "latitude": 41.39386,
+    "longitude": 2.160237,
+    "nearbyStations": "72, 374"
+  },
+  {
+    "id": 93,
+    "type": "BIKE",
+    "latitude": 41.375454,
+    "longitude": 2.149786,
+    "nearbyStations": 420
+  },
+  {
+    "id": 94,
+    "type": "BIKE",
+    "latitude": 41.375619,
+    "longitude": 2.149889,
+    "nearbyStations": "93, 420"
+  },
+  {
+    "id": 95,
+    "type": "BIKE",
+    "latitude": 41.376428000000004,
+    "longitude": 2.147734,
+    "nearbyStations": "93, 97"
+  },
+  {
+    "id": 96,
+    "type": "BIKE",
+    "latitude": 41.374152,
+    "longitude": 2.148154,
+    "nearbyStations": "93, 420"
+  },
+  {
+    "id": 97,
+    "type": "BIKE",
+    "latitude": 41.378124,
+    "longitude": 2.1453889999999998,
+    "nearbyStations": 97
+  },
+  {
+    "id": 98,
+    "type": "BIKE",
+    "latitude": 41.380499,
+    "longitude": 2.141153,
+    "nearbyStations": 75
+  },
+  {
+    "id": 99,
+    "type": "BIKE",
+    "latitude": 41.380632,
+    "longitude": 2.141548,
+    "nearbyStations": 98
+  },
+  {
+    "id": 100,
+    "type": "BIKE",
+    "latitude": 41.379135,
+    "longitude": 2.1440900000000003,
+    "nearbyStations": "97, 98"
+  },
+  {
+    "id": 101,
+    "type": "BIKE",
+    "latitude": 41.39243,
+    "longitude": 2.14321,
+    "nearbyStations": "74, 102, 319"
+  },
+  {
+    "id": 102,
+    "type": "BIKE",
+    "latitude": 41.392179999999996,
+    "longitude": 2.14213,
+    "nearbyStations": "74, 102, 319"
+  },
+  {
+    "id": 103,
+    "type": "BIKE",
+    "latitude": 41.409856,
+    "longitude": 2.188217,
+    "nearbyStations": "104, 127, 132"
+  },
+  {
+    "id": 104,
+    "type": "BIKE",
+    "latitude": 41.410821,
+    "longitude": 2.1873650000000002,
+    "nearbyStations": "103, 127, 177"
+  },
+  {
+    "id": 105,
+    "type": "BIKE",
+    "latitude": 41.389196999999996,
+    "longitude": 2.173555,
+    "nearbyStations": "65, 359, 363, 412"
+  },
+  {
+    "id": 106,
+    "type": "BIKE",
+    "latitude": 41.405587,
+    "longitude": 2.162317,
+    "nearbyStations": "122, 231"
+  },
+  {
+    "id": 107,
+    "type": "BIKE",
+    "latitude": 41.398373,
+    "longitude": 2.1531540000000002,
+    "nearbyStations": "68, 220"
+  },
+  {
+    "id": 108,
+    "type": "BIKE",
+    "latitude": 41.402314000000004,
+    "longitude": 2.164961,
+    "nearbyStations": "29, 122, 224"
+  },
+  {
+    "id": 109,
+    "type": "BIKE",
+    "latitude": 41.390981,
+    "longitude": 2.14737,
+    "nearbyStations": "89, 350"
+  },
+  {
+    "id": 110,
+    "type": "BIKE",
+    "latitude": 41.385377000000005,
+    "longitude": 2.154878,
+    "nearbyStations": 83
+  },
+  {
+    "id": 111,
+    "type": "BIKE",
+    "latitude": 41.381231,
+    "longitude": 2.152755,
+    "nearbyStations": 262
+  },
+  {
+    "id": 112,
+    "type": "BIKE",
+    "latitude": 41.377644000000004,
+    "longitude": 2.15725,
+    "nearbyStations": 113
+  },
+  {
+    "id": 113,
+    "type": "BIKE",
+    "latitude": 41.377464,
+    "longitude": 2.164725,
+    "nearbyStations": "112, 129, 427"
+  },
+  {
+    "id": 114,
+    "type": "BIKE",
+    "latitude": 41.376801,
+    "longitude": 2.1730389999999997,
+    "nearbyStations": "54, 425"
+  },
+  {
+    "id": 115,
+    "type": "BIKE",
+    "latitude": 41.38377,
+    "longitude": 2.18424,
+    "nearbyStations": "37, 401"
+  },
+  {
+    "id": 116,
+    "type": "BIKE",
+    "latitude": 41.383718,
+    "longitude": 2.191414,
+    "nearbyStations": "11, 13, 38, 39"
+  },
+  {
+    "id": 117,
+    "type": "BIKE",
+    "latitude": 41.390665999999996,
+    "longitude": 2.1970240000000003,
+    "nearbyStations": "46, 49, 163, 396"
+  },
+  {
+    "id": 118,
+    "type": "BIKE",
+    "latitude": 41.392212,
+    "longitude": 2.187847,
+    "nearbyStations": "7, 8, 45, 149"
+  },
+  {
+    "id": 119,
+    "type": "BIKE",
+    "latitude": 41.396684,
+    "longitude": 2.1824470000000002,
+    "nearbyStations": "3, 372, 387, 426"
+  },
+  {
+    "id": 120,
+    "type": "BIKE",
+    "latitude": 41.404666,
+    "longitude": 2.176515,
+    "nearbyStations": 370
+  },
+  {
+    "id": 121,
+    "type": "BIKE",
+    "latitude": 41.406293,
+    "longitude": 2.178689,
+    "nearbyStations": 121
+  },
+  {
+    "id": 122,
+    "type": "BIKE",
+    "latitude": 41.405435,
+    "longitude": 2.16624,
+    "nearbyStations": 277
+  },
+  {
+    "id": 123,
+    "type": "BIKE",
+    "latitude": 41.398013,
+    "longitude": 2.166978,
+    "nearbyStations": "27, 189, 224"
+  },
+  {
+    "id": 124,
+    "type": "BIKE",
+    "latitude": 41.370296999999994,
+    "longitude": 2.187808,
+    "nearbyStations": "31, 32, 41, 400"
+  },
+  {
+    "id": 125,
+    "type": "BIKE",
+    "latitude": 41.384426,
+    "longitude": 2.195595,
+    "nearbyStations": "12, 13, 69, 398"
+  },
+  {
+    "id": 126,
+    "type": "BIKE",
+    "latitude": 41.380778,
+    "longitude": 2.1825810000000003,
+    "nearbyStations": "37, 377, 402"
+  },
+  {
+    "id": 127,
+    "type": "BIKE",
+    "latitude": 41.412321999999996,
+    "longitude": 2.19142,
+    "nearbyStations": "103, 104, 128, 238"
+  },
+  {
+    "id": 128,
+    "type": "BIKE",
+    "latitude": 41.415581,
+    "longitude": 2.19581,
+    "nearbyStations": "127, 130, 135, 238"
+  },
+  {
+    "id": 129,
+    "type": "BIKE",
+    "latitude": 41.377068,
+    "longitude": 2.161269,
+    "nearbyStations": "112, 113"
+  },
+  {
+    "id": 130,
+    "type": "BIKE",
+    "latitude": 41.419905,
+    "longitude": 2.201573,
+    "nearbyStations": "127, 128, 131, 139"
+  },
+  {
+    "id": 131,
+    "type": "BIKE",
+    "latitude": 41.422808,
+    "longitude": 2.206036,
+    "nearbyStations": "130, 139, 316, 317"
+  },
+  {
+    "id": 132,
+    "type": "BIKE",
+    "latitude": 41.408439,
+    "longitude": 2.192173,
+    "nearbyStations": "42, 103, 133, 141"
+  },
+  {
+    "id": 133,
+    "type": "BIKE",
+    "latitude": 41.407307,
+    "longitude": 2.192804,
+    "nearbyStations": "42, 132, 141"
+  },
+  {
+    "id": 134,
+    "type": "BIKE",
+    "latitude": 41.411433,
+    "longitude": 2.1987349999999997,
+    "nearbyStations": "135, 136, 141, 145"
+  },
+  {
+    "id": 135,
+    "type": "BIKE",
+    "latitude": 41.411908000000004,
+    "longitude": 2.197936,
+    "nearbyStations": "136, 137, 141"
+  },
+  {
+    "id": 136,
+    "type": "BIKE",
+    "latitude": 41.414226,
+    "longitude": 2.201734,
+    "nearbyStations": "137, 138, 146"
+  },
+  {
+    "id": 137,
+    "type": "BIKE",
+    "latitude": 41.414758,
+    "longitude": 2.201538,
+    "nearbyStations": "130, 136, 138, 146"
+  },
+  {
+    "id": 138,
+    "type": "BIKE",
+    "latitude": 41.416965999999995,
+    "longitude": 2.205397,
+    "nearbyStations": "136, 137, 139, 147"
+  },
+  {
+    "id": 139,
+    "type": "BIKE",
+    "latitude": 41.418034999999996,
+    "longitude": 2.206023,
+    "nearbyStations": "130, 131, 138, 147"
+  },
+  {
+    "id": 140,
+    "type": "BIKE",
+    "latitude": 41.38063,
+    "longitude": 2.15614,
+    "nearbyStations": 262
+  },
+  {
+    "id": 141,
+    "type": "BIKE",
+    "latitude": 41.40902,
+    "longitude": 2.194896,
+    "nearbyStations": "42, 132, 133, 135"
+  },
+  {
+    "id": 142,
+    "type": "BIKE",
+    "latitude": 41.400503,
+    "longitude": 2.192511,
+    "nearbyStations": "42, 44, 143, 211"
+  },
+  {
+    "id": 143,
+    "type": "BIKE",
+    "latitude": 41.40325,
+    "longitude": 2.1960599999999997,
+    "nearbyStations": "42, 144, 152, 153, 428"
+  },
+  {
+    "id": 144,
+    "type": "BIKE",
+    "latitude": 41.40562,
+    "longitude": 2.1976400000000003,
+    "nearbyStations": "42, 143, 150, 286"
+  },
+  {
+    "id": 145,
+    "type": "BIKE",
+    "latitude": 41.40982,
+    "longitude": 2.202904,
+    "nearbyStations": "135, 146, 150, 156"
+  },
+  {
+    "id": 146,
+    "type": "BIKE",
+    "latitude": 41.415191,
+    "longitude": 2.2071110000000003,
+    "nearbyStations": "136, 137, 138, 145"
+  },
+  {
+    "id": 147,
+    "type": "BIKE",
+    "latitude": 41.416018,
+    "longitude": 2.2126580000000002,
+    "nearbyStations": "146, 157, 158, 159"
+  },
+  {
+    "id": 148,
+    "type": "BIKE",
+    "latitude": 41.378485999999995,
+    "longitude": 2.163404,
+    "nearbyStations": "113, 415"
+  },
+  {
+    "id": 149,
+    "type": "BIKE",
+    "latitude": 41.395905,
+    "longitude": 2.192958,
+    "nearbyStations": "45, 48, 118, 409"
+  },
+  {
+    "id": 150,
+    "type": "BIKE",
+    "latitude": 41.406549,
+    "longitude": 2.203112,
+    "nearbyStations": "144, 145, 154, 155"
+  },
+  {
+    "id": 151,
+    "type": "BIKE",
+    "latitude": 41.40065,
+    "longitude": 2.19719,
+    "nearbyStations": "152, 153, 211, 393, 428"
+  },
+  {
+    "id": 152,
+    "type": "BIKE",
+    "latitude": 41.39925,
+    "longitude": 2.197421,
+    "nearbyStations": "143, 149, 153, 393"
+  },
+  {
+    "id": 153,
+    "type": "BIKE",
+    "latitude": 41.401778,
+    "longitude": 2.2007689999999998,
+    "nearbyStations": "152, 154, 165, 393, 428"
+  },
+  {
+    "id": 154,
+    "type": "BIKE",
+    "latitude": 41.402454,
+    "longitude": 2.2016560000000003,
+    "nearbyStations": "141, 153, 165, 382"
+  },
+  {
+    "id": 155,
+    "type": "BIKE",
+    "latitude": 41.406977000000005,
+    "longitude": 2.207602,
+    "nearbyStations": "150, 156, 162, 382"
+  },
+  {
+    "id": 156,
+    "type": "BIKE",
+    "latitude": 41.409017,
+    "longitude": 2.2088099999999997,
+    "nearbyStations": "145, 155, 157, 159"
+  },
+  {
+    "id": 157,
+    "type": "BIKE",
+    "latitude": 41.412946999999996,
+    "longitude": 2.217819,
+    "nearbyStations": "35, 147, 158, 159, 160"
+  },
+  {
+    "id": 158,
+    "type": "BIKE",
+    "latitude": 41.411741,
+    "longitude": 2.218546,
+    "nearbyStations": "35, 156, 157, 159, 160"
+  },
+  {
+    "id": 159,
+    "type": "BIKE",
+    "latitude": 41.410882,
+    "longitude": 2.216703,
+    "nearbyStations": "35, 156, 157, 158, 160"
+  },
+  {
+    "id": 160,
+    "type": "BIKE",
+    "latitude": 41.411026,
+    "longitude": 2.219377,
+    "nearbyStations": "35, 156, 157, 158, 159"
+  },
+  {
+    "id": 161,
+    "type": "BIKE",
+    "latitude": 41.395009,
+    "longitude": 2.196308,
+    "nearbyStations": "49, 149, 163, 409"
+  },
+  {
+    "id": 162,
+    "type": "BIKE",
+    "latitude": 41.403908,
+    "longitude": 2.208436,
+    "nearbyStations": "155, 166, 167, 168"
+  },
+  {
+    "id": 163,
+    "type": "BIKE",
+    "latitude": 41.3942,
+    "longitude": 2.20077,
+    "nearbyStations": "49, 117, 161, 172"
+  },
+  {
+    "id": 164,
+    "type": "BIKE",
+    "latitude": 41.411901,
+    "longitude": 2.177895,
+    "nearbyStations": "21, 177, 280"
+  },
+  {
+    "id": 165,
+    "type": "BIKE",
+    "latitude": 41.399196,
+    "longitude": 2.204253,
+    "nearbyStations": "153, 154, 166, 173"
+  },
+  {
+    "id": 166,
+    "type": "BIKE",
+    "latitude": 41.400533,
+    "longitude": 2.206539,
+    "nearbyStations": "162, 165, 173, 174"
+  },
+  {
+    "id": 167,
+    "type": "BIKE",
+    "latitude": 41.402561,
+    "longitude": 2.210538,
+    "nearbyStations": "162, 166, 168, 176"
+  },
+  {
+    "id": 168,
+    "type": "BIKE",
+    "latitude": 41.405358,
+    "longitude": 2.213677,
+    "nearbyStations": "162, 167, 176, 178"
+  },
+  {
+    "id": 169,
+    "type": "BIKE",
+    "latitude": 41.389896,
+    "longitude": 2.200055,
+    "nearbyStations": "11, 170, 172, 397"
+  },
+  {
+    "id": 170,
+    "type": "BIKE",
+    "latitude": 41.389732,
+    "longitude": 2.199934,
+    "nearbyStations": "117, 169, 172, 397"
+  },
+  {
+    "id": 171,
+    "type": "BIKE",
+    "latitude": 41.391985999999996,
+    "longitude": 2.2036990000000003,
+    "nearbyStations": "163, 169, 170, 172"
+  },
+  {
+    "id": 172,
+    "type": "BIKE",
+    "latitude": 41.391830999999996,
+    "longitude": 2.203436,
+    "nearbyStations": "163, 169, 170, 171"
+  },
+  {
+    "id": 173,
+    "type": "BIKE",
+    "latitude": 41.398027,
+    "longitude": 2.208982,
+    "nearbyStations": "166, 171, 174, 190"
+  },
+  {
+    "id": 174,
+    "type": "BIKE",
+    "latitude": 41.40061,
+    "longitude": 2.210461,
+    "nearbyStations": "166, 173, 176, 178"
+  },
+  {
+    "id": 175,
+    "type": "BIKE",
+    "latitude": 41.406659999999995,
+    "longitude": 2.2095599999999997,
+    "nearbyStations": "155, 156, 162, 167"
+  },
+  {
+    "id": 176,
+    "type": "BIKE",
+    "latitude": 41.402541,
+    "longitude": 2.212641,
+    "nearbyStations": "167, 168, 174, 178"
+  },
+  {
+    "id": 177,
+    "type": "BIKE",
+    "latitude": 41.411089000000004,
+    "longitude": 2.181119,
+    "nearbyStations": 280
+  },
+  {
+    "id": 178,
+    "type": "BIKE",
+    "latitude": 41.405389,
+    "longitude": 2.216212,
+    "nearbyStations": "162, 166, 167, 168"
+  },
+  {
+    "id": 179,
+    "type": "BIKE",
+    "latitude": 41.363510999999995,
+    "longitude": 2.1367700000000003,
+    "nearbyStations": "184, 351"
+  },
+  {
+    "id": 180,
+    "type": "BIKE",
+    "latitude": 41.367779999999996,
+    "longitude": 2.1392599999999997,
+    "nearbyStations": "182, 183"
+  },
+  {
+    "id": 181,
+    "type": "BIKE",
+    "latitude": 41.36766,
+    "longitude": 2.13911,
+    "nearbyStations": "182, 183"
+  },
+  {
+    "id": 182,
+    "type": "BIKE",
+    "latitude": 41.371455,
+    "longitude": 2.143882,
+    "nearbyStations": "183, 420"
+  },
+  {
+    "id": 183,
+    "type": "BIKE",
+    "latitude": 41.372338,
+    "longitude": 2.141875,
+    "nearbyStations": "182, 185, 420"
+  },
+  {
+    "id": 184,
+    "type": "BIKE",
+    "latitude": 41.367504,
+    "longitude": 2.134088,
+    "nearbyStations": 185
+  },
+  {
+    "id": 185,
+    "type": "BIKE",
+    "latitude": 41.370459999999994,
+    "longitude": 2.138994,
+    "nearbyStations": 184
+  },
+  {
+    "id": 186,
+    "type": "BIKE",
+    "latitude": 41.375571,
+    "longitude": 2.143812,
+    "nearbyStations": "210, 420"
+  },
+  {
+    "id": 187,
+    "type": "BIKE",
+    "latitude": 41.376858,
+    "longitude": 2.169811,
+    "nearbyStations": "54, 427"
+  },
+  {
+    "id": 188,
+    "type": "BIKE",
+    "latitude": 41.375802,
+    "longitude": 2.135973,
+    "nearbyStations": "210, 313, 354"
+  },
+  {
+    "id": 189,
+    "type": "BIKE",
+    "latitude": 41.396918,
+    "longitude": 2.166163,
+    "nearbyStations": "25, 27, 224"
+  },
+  {
+    "id": 190,
+    "type": "BIKE",
+    "latitude": 41.39606,
+    "longitude": 2.2078029999999997,
+    "nearbyStations": "165, 171, 172, 173"
+  },
+  {
+    "id": 191,
+    "type": "BIKE",
+    "latitude": 41.382564,
+    "longitude": 2.149094,
+    "nearbyStations": 191
+  },
+  {
+    "id": 192,
+    "type": "BIKE",
+    "latitude": 41.378629,
+    "longitude": 2.133467,
+    "nearbyStations": "193, 314"
+  },
+  {
+    "id": 193,
+    "type": "BIKE",
+    "latitude": 41.381311,
+    "longitude": 2.1289119999999997,
+    "nearbyStations": "199, 312"
+  },
+  {
+    "id": 194,
+    "type": "BIKE",
+    "latitude": 41.381013,
+    "longitude": 2.132319,
+    "nearbyStations": "192, 193, 196, 200"
+  },
+  {
+    "id": 195,
+    "type": "BIKE",
+    "latitude": 41.381888000000004,
+    "longitude": 2.1354330000000004,
+    "nearbyStations": "196, 367"
+  },
+  {
+    "id": 196,
+    "type": "BIKE",
+    "latitude": 41.383241,
+    "longitude": 2.139363,
+    "nearbyStations": 201
+  },
+  {
+    "id": 197,
+    "type": "BIKE",
+    "latitude": 41.38712,
+    "longitude": 2.141039,
+    "nearbyStations": "75, 196, 201"
+  },
+  {
+    "id": 198,
+    "type": "BIKE",
+    "latitude": 41.38451,
+    "longitude": 2.1336169999999997,
+    "nearbyStations": "196, 200, 201, 205"
+  },
+  {
+    "id": 199,
+    "type": "BIKE",
+    "latitude": 41.381820000000005,
+    "longitude": 2.126933,
+    "nearbyStations": "193, 200, 312"
+  },
+  {
+    "id": 200,
+    "type": "BIKE",
+    "latitude": 41.383756,
+    "longitude": 2.1312729999999998,
+    "nearbyStations": "193, 196"
+  },
+  {
+    "id": 201,
+    "type": "BIKE",
+    "latitude": 41.387787,
+    "longitude": 2.134341,
+    "nearbyStations": 207
+  },
+  {
+    "id": 202,
+    "type": "BIKE",
+    "latitude": 41.385331,
+    "longitude": 2.128737,
+    "nearbyStations": "200, 205"
+  },
+  {
+    "id": 203,
+    "type": "BIKE",
+    "latitude": 41.388742,
+    "longitude": 2.128503,
+    "nearbyStations": "204, 205, 212, 284"
+  },
+  {
+    "id": 204,
+    "type": "BIKE",
+    "latitude": 41.388011,
+    "longitude": 2.125593,
+    "nearbyStations": "205, 212"
+  },
+  {
+    "id": 205,
+    "type": "BIKE",
+    "latitude": 41.387465,
+    "longitude": 2.1308380000000002,
+    "nearbyStations": 284
+  },
+  {
+    "id": 206,
+    "type": "BIKE",
+    "latitude": 41.389845,
+    "longitude": 2.1328400000000003,
+    "nearbyStations": "201, 207, 284"
+  },
+  {
+    "id": 207,
+    "type": "BIKE",
+    "latitude": 41.390828000000006,
+    "longitude": 2.1366650000000003,
+    "nearbyStations": "201, 204"
+  },
+  {
+    "id": 208,
+    "type": "BIKE",
+    "latitude": 41.391451,
+    "longitude": 2.139116,
+    "nearbyStations": "201, 207"
+  },
+  {
+    "id": 209,
+    "type": "BIKE",
+    "latitude": 41.385754999999996,
+    "longitude": 2.161004,
+    "nearbyStations": 71
+  },
+  {
+    "id": 210,
+    "type": "BIKE",
+    "latitude": 41.37453,
+    "longitude": 2.142356,
+    "nearbyStations": "183, 185"
+  },
+  {
+    "id": 211,
+    "type": "BIKE",
+    "latitude": 41.398848,
+    "longitude": 2.1902909999999998,
+    "nearbyStations": "16, 44, 48, 142"
+  },
+  {
+    "id": 212,
+    "type": "BIKE",
+    "latitude": 41.39239,
+    "longitude": 2.130945,
+    "nearbyStations": 284
+  },
+  {
+    "id": 213,
+    "type": "BIKE",
+    "latitude": 41.393783,
+    "longitude": 2.135078,
+    "nearbyStations": "207, 214, 215"
+  },
+  {
+    "id": 214,
+    "type": "BIKE",
+    "latitude": 41.395251,
+    "longitude": 2.133541,
+    "nearbyStations": "207, 212"
+  },
+  {
+    "id": 215,
+    "type": "BIKE",
+    "latitude": 41.39412,
+    "longitude": 2.138146,
+    "nearbyStations": "102, 214, 324"
+  },
+  {
+    "id": 216,
+    "type": "BIKE",
+    "latitude": 41.396809000000005,
+    "longitude": 2.144534,
+    "nearbyStations": "217, 319"
+  },
+  {
+    "id": 217,
+    "type": "BIKE",
+    "latitude": 41.398463,
+    "longitude": 2.143924,
+    "nearbyStations": "102, 319"
+  },
+  {
+    "id": 218,
+    "type": "BIKE",
+    "latitude": 41.404114,
+    "longitude": 2.183203,
+    "nearbyStations": 369
+  },
+  {
+    "id": 219,
+    "type": "BIKE",
+    "latitude": 41.397698,
+    "longitude": 2.147358,
+    "nearbyStations": "217, 220"
+  },
+  {
+    "id": 220,
+    "type": "BIKE",
+    "latitude": 41.396229,
+    "longitude": 2.151482,
+    "nearbyStations": 68
+  },
+  {
+    "id": 221,
+    "type": "BIKE",
+    "latitude": 41.402535,
+    "longitude": 2.152519,
+    "nearbyStations": "222, 229, 230"
+  },
+  {
+    "id": 222,
+    "type": "BIKE",
+    "latitude": 41.40124,
+    "longitude": 2.157483,
+    "nearbyStations": 229
+  },
+  {
+    "id": 223,
+    "type": "BIKE",
+    "latitude": 41.398311,
+    "longitude": 2.159865,
+    "nearbyStations": "68, 224, 225, 374"
+  },
+  {
+    "id": 224,
+    "type": "BIKE",
+    "latitude": 41.399945,
+    "longitude": 2.164389,
+    "nearbyStations": "27, 189"
+  },
+  {
+    "id": 225,
+    "type": "BIKE",
+    "latitude": 41.384956,
+    "longitude": 2.150814,
+    "nearbyStations": "89, 191"
+  },
+  {
+    "id": 226,
+    "type": "BIKE",
+    "latitude": 41.403465000000004,
+    "longitude": 2.161096,
+    "nearbyStations": "122, 231"
+  },
+  {
+    "id": 227,
+    "type": "BIKE",
+    "latitude": 41.407837,
+    "longitude": 2.158678,
+    "nearbyStations": 231
+  },
+  {
+    "id": 228,
+    "type": "BIKE",
+    "latitude": 41.406940000000006,
+    "longitude": 2.1557939999999998,
+    "nearbyStations": "229, 230"
+  },
+  {
+    "id": 229,
+    "type": "BIKE",
+    "latitude": 41.405107,
+    "longitude": 2.156874,
+    "nearbyStations": 226
+  },
+  {
+    "id": 230,
+    "type": "BIKE",
+    "latitude": 41.405986,
+    "longitude": 2.1516330000000004,
+    "nearbyStations": "222, 229"
+  },
+  {
+    "id": 231,
+    "type": "BIKE",
+    "latitude": 41.407202000000005,
+    "longitude": 2.1634759999999997,
+    "nearbyStations": "122, 276"
+  },
+  {
+    "id": 232,
+    "type": "BIKE",
+    "latitude": 41.373509000000006,
+    "longitude": 2.171002,
+    "nearbyStations": "234, 427"
+  },
+  {
+    "id": 233,
+    "type": "BIKE",
+    "latitude": 41.371965,
+    "longitude": 2.166871,
+    "nearbyStations": "232, 234, 427"
+  },
+  {
+    "id": 234,
+    "type": "BIKE",
+    "latitude": 41.371515,
+    "longitude": 2.162166,
+    "nearbyStations": "85, 236"
+  },
+  {
+    "id": 235,
+    "type": "BIKE",
+    "latitude": 41.375065,
+    "longitude": 2.165839,
+    "nearbyStations": "85, 129, 234, 236"
+  },
+  {
+    "id": 236,
+    "type": "BIKE",
+    "latitude": 41.375127,
+    "longitude": 2.1527689999999997,
+    "nearbyStations": "85, 237"
+  },
+  {
+    "id": 237,
+    "type": "BIKE",
+    "latitude": 41.372890999999996,
+    "longitude": 2.154471,
+    "nearbyStations": "85, 93, 234, 236"
+  },
+  {
+    "id": 238,
+    "type": "BIKE",
+    "latitude": 41.415684000000006,
+    "longitude": 2.190986,
+    "nearbyStations": "127, 240, 248, 289"
+  },
+  {
+    "id": 239,
+    "type": "BIKE",
+    "latitude": 41.417322999999996,
+    "longitude": 2.184534,
+    "nearbyStations": "240, 241, 248, 315"
+  },
+  {
+    "id": 240,
+    "type": "BIKE",
+    "latitude": 41.417763,
+    "longitude": 2.187558,
+    "nearbyStations": "128, 238, 248, 289"
+  },
+  {
+    "id": 241,
+    "type": "BIKE",
+    "latitude": 41.419337,
+    "longitude": 2.180482,
+    "nearbyStations": "239, 240, 248, 315"
+  },
+  {
+    "id": 242,
+    "type": "BIKE",
+    "latitude": 41.424451,
+    "longitude": 2.177284,
+    "nearbyStations": "241, 243, 291"
+  },
+  {
+    "id": 243,
+    "type": "BIKE",
+    "latitude": 41.423939000000004,
+    "longitude": 2.181298,
+    "nearbyStations": "241, 247"
+  },
+  {
+    "id": 244,
+    "type": "BIKE",
+    "latitude": 41.426896,
+    "longitude": 2.178511,
+    "nearbyStations": "243, 251, 300"
+  },
+  {
+    "id": 246,
+    "type": "BIKE",
+    "latitude": 41.422844,
+    "longitude": 2.1866369999999997,
+    "nearbyStations": "247, 250, 251"
+  },
+  {
+    "id": 247,
+    "type": "BIKE",
+    "latitude": 41.421991999999996,
+    "longitude": 2.184806,
+    "nearbyStations": "241, 243, 251"
+  },
+  {
+    "id": 248,
+    "type": "BIKE",
+    "latitude": 41.418208,
+    "longitude": 2.1903740000000003,
+    "nearbyStations": "128, 238, 240, 423"
+  },
+  {
+    "id": 249,
+    "type": "BIKE",
+    "latitude": 41.425216,
+    "longitude": 2.188997,
+    "nearbyStations": "250, 251"
+  },
+  {
+    "id": 250,
+    "type": "BIKE",
+    "latitude": 41.425905,
+    "longitude": 2.19115,
+    "nearbyStations": "252, 254"
+  },
+  {
+    "id": 251,
+    "type": "BIKE",
+    "latitude": 41.425405,
+    "longitude": 2.1852259999999997,
+    "nearbyStations": "243, 247"
+  },
+  {
+    "id": 252,
+    "type": "BIKE",
+    "latitude": 41.429953000000005,
+    "longitude": 2.1931849999999997,
+    "nearbyStations": "250, 254"
+  },
+  {
+    "id": 253,
+    "type": "BIKE",
+    "latitude": 41.429977,
+    "longitude": 2.191821,
+    "nearbyStations": "250, 252, 254"
+  },
+  {
+    "id": 254,
+    "type": "BIKE",
+    "latitude": 41.429984999999995,
+    "longitude": 2.190163,
+    "nearbyStations": "250, 252"
+  },
+  {
+    "id": 255,
+    "type": "BIKE",
+    "latitude": 41.431183000000004,
+    "longitude": 2.185852,
+    "nearbyStations": 254
+  },
+  {
+    "id": 256,
+    "type": "BIKE",
+    "latitude": 41.43608,
+    "longitude": 2.189542,
+    "nearbyStations": 259
+  },
+  {
+    "id": 257,
+    "type": "BIKE",
+    "latitude": 41.433896999999995,
+    "longitude": 2.1896139999999997,
+    "nearbyStations": 254
+  },
+  {
+    "id": 258,
+    "type": "BIKE",
+    "latitude": 41.442167,
+    "longitude": 2.193032,
+    "nearbyStations": "259, 263"
+  },
+  {
+    "id": 259,
+    "type": "BIKE",
+    "latitude": 41.439109,
+    "longitude": 2.185818,
+    "nearbyStations": 259
+  },
+  {
+    "id": 260,
+    "type": "BIKE",
+    "latitude": 41.436163,
+    "longitude": 2.1929939999999997,
+    "nearbyStations": "263, 264"
+  },
+  {
+    "id": 261,
+    "type": "BIKE",
+    "latitude": 41.382206,
+    "longitude": 2.160644,
+    "nearbyStations": 71
+  },
+  {
+    "id": 262,
+    "type": "BIKE",
+    "latitude": 41.379821,
+    "longitude": 2.1524959999999997,
+    "nearbyStations": 191
+  },
+  {
+    "id": 263,
+    "type": "BIKE",
+    "latitude": 41.437814,
+    "longitude": 2.191039,
+    "nearbyStations": "260, 264"
+  },
+  {
+    "id": 264,
+    "type": "BIKE",
+    "latitude": 41.439949,
+    "longitude": 2.1970330000000002,
+    "nearbyStations": "263, 268"
+  },
+  {
+    "id": 265,
+    "type": "BIKE",
+    "latitude": 41.385467,
+    "longitude": 2.158532,
+    "nearbyStations": "80, 110"
+  },
+  {
+    "id": 266,
+    "type": "BIKE",
+    "latitude": 41.426840999999996,
+    "longitude": 2.184238,
+    "nearbyStations": "263, 264, 268"
+  },
+  {
+    "id": 267,
+    "type": "BIKE",
+    "latitude": 41.443395,
+    "longitude": 2.190623,
+    "nearbyStations": "263, 264, 268"
+  },
+  {
+    "id": 268,
+    "type": "BIKE",
+    "latitude": 41.445705,
+    "longitude": 2.1928919999999996,
+    "nearbyStations": "263, 264"
+  },
+  {
+    "id": 269,
+    "type": "BIKE",
+    "latitude": 41.448128000000004,
+    "longitude": 2.1928259999999997,
+    "nearbyStations": "264, 268, 270"
+  },
+  {
+    "id": 270,
+    "type": "BIKE",
+    "latitude": 41.448628,
+    "longitude": 2.1897599999999997,
+    "nearbyStations": 268
+  },
+  {
+    "id": 271,
+    "type": "BIKE",
+    "latitude": 41.450634,
+    "longitude": 2.192335,
+    "nearbyStations": "268, 270"
+  },
+  {
+    "id": 272,
+    "type": "BIKE",
+    "latitude": 41.432559000000005,
+    "longitude": 2.1842639999999998,
+    "nearbyStations": 273
+  },
+  {
+    "id": 273,
+    "type": "BIKE",
+    "latitude": 41.430403999999996,
+    "longitude": 2.183382,
+    "nearbyStations": 272
+  },
+  {
+    "id": 274,
+    "type": "BIKE",
+    "latitude": 41.430092,
+    "longitude": 2.184898,
+    "nearbyStations": "254, 272, 273"
+  },
+  {
+    "id": 275,
+    "type": "BIKE",
+    "latitude": 41.430693,
+    "longitude": 2.182225,
+    "nearbyStations": "272, 273"
+  },
+  {
+    "id": 276,
+    "type": "BIKE",
+    "latitude": 41.412163,
+    "longitude": 2.165275,
+    "nearbyStations": "231, 277"
+  },
+  {
+    "id": 277,
+    "type": "BIKE",
+    "latitude": 41.408284,
+    "longitude": 2.16905,
+    "nearbyStations": "122, 231"
+  },
+  {
+    "id": 278,
+    "type": "BIKE",
+    "latitude": 41.409815,
+    "longitude": 2.171621,
+    "nearbyStations": "21, 277"
+  },
+  {
+    "id": 279,
+    "type": "BIKE",
+    "latitude": 41.415951,
+    "longitude": 2.174564,
+    "nearbyStations": 280
+  },
+  {
+    "id": 280,
+    "type": "BIKE",
+    "latitude": 41.413986,
+    "longitude": 2.1778419999999996,
+    "nearbyStations": "21, 239"
+  },
+  {
+    "id": 281,
+    "type": "BIKE",
+    "latitude": 41.418088,
+    "longitude": 2.176313,
+    "nearbyStations": "241, 243"
+  },
+  {
+    "id": 282,
+    "type": "BIKE",
+    "latitude": 41.427561,
+    "longitude": 2.1660220000000003,
+    "nearbyStations": 291
+  },
+  {
+    "id": 283,
+    "type": "BIKE",
+    "latitude": 41.42968,
+    "longitude": 2.16157,
+    "nearbyStations": "282, 291"
+  },
+  {
+    "id": 284,
+    "type": "BIKE",
+    "latitude": 41.389503000000005,
+    "longitude": 2.131454,
+    "nearbyStations": "205, 212"
+  },
+  {
+    "id": 285,
+    "type": "BIKE",
+    "latitude": 41.436708,
+    "longitude": 2.186059,
+    "nearbyStations": "259, 272"
+  },
+  {
+    "id": 286,
+    "type": "BIKE",
+    "latitude": 41.403103,
+    "longitude": 2.1914279999999997,
+    "nearbyStations": "42, 44, 142, 143"
+  },
+  {
+    "id": 287,
+    "type": "BIKE",
+    "latitude": 41.389171000000005,
+    "longitude": 2.168113,
+    "nearbyStations": "61, 64"
+  },
+  {
+    "id": 288,
+    "type": "BIKE",
+    "latitude": 41.429636,
+    "longitude": 2.174487,
+    "nearbyStations": 291
+  },
+  {
+    "id": 289,
+    "type": "BIKE",
+    "latitude": 41.416828,
+    "longitude": 2.1910220000000002,
+    "nearbyStations": "127, 238, 240, 248"
+  },
+  {
+    "id": 290,
+    "type": "BIKE",
+    "latitude": 41.437094,
+    "longitude": 2.1740470000000003,
+    "nearbyStations": 301
+  },
+  {
+    "id": 291,
+    "type": "BIKE",
+    "latitude": 41.425897,
+    "longitude": 2.17505,
+    "nearbyStations": 282
+  },
+  {
+    "id": 292,
+    "type": "BIKE",
+    "latitude": 41.430036,
+    "longitude": 2.171974,
+    "nearbyStations": "282, 291, 300"
+  },
+  {
+    "id": 293,
+    "type": "BIKE",
+    "latitude": 41.428388,
+    "longitude": 2.1631009999999997,
+    "nearbyStations": "282, 291"
+  },
+  {
+    "id": 294,
+    "type": "BIKE",
+    "latitude": 41.436372999999996,
+    "longitude": 2.1706779999999997,
+    "nearbyStations": 301
+  },
+  {
+    "id": 295,
+    "type": "BIKE",
+    "latitude": 41.43345,
+    "longitude": 2.1715,
+    "nearbyStations": "282, 301"
+  },
+  {
+    "id": 296,
+    "type": "BIKE",
+    "latitude": 41.436505,
+    "longitude": 2.183877,
+    "nearbyStations": "259, 272"
+  },
+  {
+    "id": 297,
+    "type": "BIKE",
+    "latitude": 41.438864,
+    "longitude": 2.176822,
+    "nearbyStations": 296
+  },
+  {
+    "id": 298,
+    "type": "BIKE",
+    "latitude": 41.43463,
+    "longitude": 2.181747,
+    "nearbyStations": "296, 300"
+  },
+  {
+    "id": 299,
+    "type": "BIKE",
+    "latitude": 41.433965,
+    "longitude": 2.175199,
+    "nearbyStations": 301
+  },
+  {
+    "id": 300,
+    "type": "BIKE",
+    "latitude": 41.431593,
+    "longitude": 2.176909,
+    "nearbyStations": 301
+  },
+  {
+    "id": 301,
+    "type": "BIKE",
+    "latitude": 41.437053000000006,
+    "longitude": 2.169644,
+    "nearbyStations": 301
+  },
+  {
+    "id": 302,
+    "type": "BIKE",
+    "latitude": 41.39065,
+    "longitude": 2.111615,
+    "nearbyStations": "303, 335"
+  },
+  {
+    "id": 303,
+    "type": "BIKE",
+    "latitude": 41.393341,
+    "longitude": 2.1150759999999997,
+    "nearbyStations": 335
+  },
+  {
+    "id": 304,
+    "type": "BIKE",
+    "latitude": 41.390208,
+    "longitude": 2.121029,
+    "nearbyStations": "204, 335"
+  },
+  {
+    "id": 305,
+    "type": "BIKE",
+    "latitude": 41.387498,
+    "longitude": 2.123637,
+    "nearbyStations": "204, 306"
+  },
+  {
+    "id": 306,
+    "type": "BIKE",
+    "latitude": 41.385465,
+    "longitude": 2.122912,
+    "nearbyStations": 204
+  },
+  {
+    "id": 307,
+    "type": "BIKE",
+    "latitude": 41.379135,
+    "longitude": 2.113505,
+    "nearbyStations": 309
+  },
+  {
+    "id": 308,
+    "type": "BIKE",
+    "latitude": 41.376788,
+    "longitude": 2.113864,
+    "nearbyStations": 309
+  },
+  {
+    "id": 309,
+    "type": "BIKE",
+    "latitude": 41.376740000000005,
+    "longitude": 2.1169729999999998,
+    "nearbyStations": 309
+  },
+  {
+    "id": 310,
+    "type": "BIKE",
+    "latitude": 41.381223,
+    "longitude": 2.119077,
+    "nearbyStations": "306, 309"
+  },
+  {
+    "id": 311,
+    "type": "BIKE",
+    "latitude": 41.378638,
+    "longitude": 2.120393,
+    "nearbyStations": 309
+  },
+  {
+    "id": 312,
+    "type": "BIKE",
+    "latitude": 41.379046,
+    "longitude": 2.123253,
+    "nearbyStations": 193
+  },
+  {
+    "id": 313,
+    "type": "BIKE",
+    "latitude": 41.375366,
+    "longitude": 2.1298470000000003,
+    "nearbyStations": "185, 314, 354"
+  },
+  {
+    "id": 314,
+    "type": "BIKE",
+    "latitude": 41.37836,
+    "longitude": 2.129737,
+    "nearbyStations": "193, 313, 354"
+  },
+  {
+    "id": 315,
+    "type": "BIKE",
+    "latitude": 41.415617,
+    "longitude": 2.181966,
+    "nearbyStations": "177, 239, 241, 280"
+  },
+  {
+    "id": 316,
+    "type": "BIKE",
+    "latitude": 41.422212,
+    "longitude": 2.198316,
+    "nearbyStations": "128, 130, 131, 317"
+  },
+  {
+    "id": 317,
+    "type": "BIKE",
+    "latitude": 41.425565999999996,
+    "longitude": 2.2006930000000002,
+    "nearbyStations": "130, 131, 316"
+  },
+  {
+    "id": 318,
+    "type": "BIKE",
+    "latitude": 41.413406,
+    "longitude": 2.1713310000000003,
+    "nearbyStations": "21, 276"
+  },
+  {
+    "id": 319,
+    "type": "BIKE",
+    "latitude": 41.393713,
+    "longitude": 2.145584,
+    "nearbyStations": 102
+  },
+  {
+    "id": 320,
+    "type": "BIKE",
+    "latitude": 41.401118,
+    "longitude": 2.147989,
+    "nearbyStations": "217, 230"
+  },
+  {
+    "id": 321,
+    "type": "BIKE",
+    "latitude": 41.403054,
+    "longitude": 2.144549,
+    "nearbyStations": "217, 230, 322, 326"
+  },
+  {
+    "id": 322,
+    "type": "BIKE",
+    "latitude": 41.400977000000005,
+    "longitude": 2.1390700000000002,
+    "nearbyStations": "217, 324"
+  },
+  {
+    "id": 323,
+    "type": "BIKE",
+    "latitude": 41.397996,
+    "longitude": 2.1387169999999998,
+    "nearbyStations": "214, 215, 217, 324"
+  },
+  {
+    "id": 324,
+    "type": "BIKE",
+    "latitude": 41.396938,
+    "longitude": 2.136258,
+    "nearbyStations": "214, 215, 322"
+  },
+  {
+    "id": 325,
+    "type": "BIKE",
+    "latitude": 41.39493,
+    "longitude": 2.130325,
+    "nearbyStations": "212, 214, 331"
+  },
+  {
+    "id": 326,
+    "type": "BIKE",
+    "latitude": 41.407384,
+    "longitude": 2.1383,
+    "nearbyStations": 330
+  },
+  {
+    "id": 327,
+    "type": "BIKE",
+    "latitude": 41.405,
+    "longitude": 2.13453,
+    "nearbyStations": "322, 326"
+  },
+  {
+    "id": 328,
+    "type": "BIKE",
+    "latitude": 41.40293,
+    "longitude": 2.13427,
+    "nearbyStations": 322
+  },
+  {
+    "id": 329,
+    "type": "BIKE",
+    "latitude": 41.402879,
+    "longitude": 2.128541,
+    "nearbyStations": 330
+  },
+  {
+    "id": 330,
+    "type": "BIKE",
+    "latitude": 41.400587,
+    "longitude": 2.1306580000000004,
+    "nearbyStations": 331
+  },
+  {
+    "id": 331,
+    "type": "BIKE",
+    "latitude": 41.397059999999996,
+    "longitude": 2.1280099999999997,
+    "nearbyStations": 335
+  },
+  {
+    "id": 332,
+    "type": "BIKE",
+    "latitude": 41.399833,
+    "longitude": 2.128083,
+    "nearbyStations": "330, 331"
+  },
+  {
+    "id": 333,
+    "type": "BIKE",
+    "latitude": 41.395632,
+    "longitude": 2.125106,
+    "nearbyStations": "331, 335"
+  },
+  {
+    "id": 334,
+    "type": "BIKE",
+    "latitude": 41.400721999999995,
+    "longitude": 2.123268,
+    "nearbyStations": "331, 337"
+  },
+  {
+    "id": 335,
+    "type": "BIKE",
+    "latitude": 41.393639,
+    "longitude": 2.123224,
+    "nearbyStations": 212
+  },
+  {
+    "id": 336,
+    "type": "BIKE",
+    "latitude": 41.395274,
+    "longitude": 2.1209729999999998,
+    "nearbyStations": "335, 337"
+  },
+  {
+    "id": 337,
+    "type": "BIKE",
+    "latitude": 41.398719,
+    "longitude": 2.120422,
+    "nearbyStations": 337
+  },
+  {
+    "id": 338,
+    "type": "BIKE",
+    "latitude": 41.397572,
+    "longitude": 2.1195060000000003,
+    "nearbyStations": 337
+  },
+  {
+    "id": 339,
+    "type": "BIKE",
+    "latitude": 41.401662,
+    "longitude": 2.205277,
+    "nearbyStations": "153, 154, 165, 382"
+  },
+  {
+    "id": 340,
+    "type": "BIKE",
+    "latitude": 41.43619,
+    "longitude": 2.204573,
+    "nearbyStations": 264
+  },
+  {
+    "id": 341,
+    "type": "BIKE",
+    "latitude": 41.433958000000004,
+    "longitude": 2.206166,
+    "nearbyStations": 264
+  },
+  {
+    "id": 342,
+    "type": "BIKE",
+    "latitude": 41.403502,
+    "longitude": 2.193702,
+    "nearbyStations": "142, 152, 153, 393, 428"
+  },
+  {
+    "id": 343,
+    "type": "BIKE",
+    "latitude": 41.438886,
+    "longitude": 2.199598,
+    "nearbyStations": "260, 264"
+  },
+  {
+    "id": 344,
+    "type": "BIKE",
+    "latitude": 41.443127000000004,
+    "longitude": 2.199538,
+    "nearbyStations": "260, 263, 264"
+  },
+  {
+    "id": 345,
+    "type": "BIKE",
+    "latitude": 41.363093,
+    "longitude": 2.139771,
+    "nearbyStations": 351
+  },
+  {
+    "id": 346,
+    "type": "BIKE",
+    "latitude": 41.360654,
+    "longitude": 2.139132,
+    "nearbyStations": "345, 347, 348"
+  },
+  {
+    "id": 347,
+    "type": "BIKE",
+    "latitude": 41.359496,
+    "longitude": 2.14182,
+    "nearbyStations": "345, 348"
+  },
+  {
+    "id": 348,
+    "type": "BIKE",
+    "latitude": 41.357067,
+    "longitude": 2.141563,
+    "nearbyStations": "345, 347"
+  },
+  {
+    "id": 349,
+    "type": "BIKE",
+    "latitude": 41.357338,
+    "longitude": 2.137172,
+    "nearbyStations": "345, 348, 351"
+  },
+  {
+    "id": 350,
+    "type": "BIKE",
+    "latitude": 41.391833,
+    "longitude": 2.14812,
+    "nearbyStations": 90
+  },
+  {
+    "id": 351,
+    "type": "BIKE",
+    "latitude": 41.362134999999995,
+    "longitude": 2.135637,
+    "nearbyStations": 345
+  },
+  {
+    "id": 352,
+    "type": "BIKE",
+    "latitude": 41.36335,
+    "longitude": 2.134144,
+    "nearbyStations": 351
+  },
+  {
+    "id": 353,
+    "type": "BIKE",
+    "latitude": 41.375414,
+    "longitude": 2.123191,
+    "nearbyStations": "309, 314, 354"
+  },
+  {
+    "id": 354,
+    "type": "BIKE",
+    "latitude": 41.37592,
+    "longitude": 2.13008,
+    "nearbyStations": "312, 313, 314"
+  },
+  {
+    "id": 355,
+    "type": "BIKE",
+    "latitude": 41.37211,
+    "longitude": 2.12859,
+    "nearbyStations": "184, 313, 354"
+  },
+  {
+    "id": 356,
+    "type": "BIKE",
+    "latitude": 41.413425,
+    "longitude": 2.163411,
+    "nearbyStations": "231, 276"
+  },
+  {
+    "id": 357,
+    "type": "BIKE",
+    "latitude": 41.410538,
+    "longitude": 2.1581,
+    "nearbyStations": 231
+  },
+  {
+    "id": 358,
+    "type": "BIKE",
+    "latitude": 41.387225,
+    "longitude": 2.1792700000000003,
+    "nearbyStations": "34, 35, 36, 390"
+  },
+  {
+    "id": 359,
+    "type": "BIKE",
+    "latitude": 41.390021000000004,
+    "longitude": 2.177572,
+    "nearbyStations": "5, 358, 363"
+  },
+  {
+    "id": 360,
+    "type": "BIKE",
+    "latitude": 41.395213,
+    "longitude": 2.172984,
+    "nearbyStations": "15, 23"
+  },
+  {
+    "id": 361,
+    "type": "BIKE",
+    "latitude": 41.376292,
+    "longitude": 2.178553,
+    "nearbyStations": "57, 376, 410"
+  },
+  {
+    "id": 362,
+    "type": "BIKE",
+    "latitude": 41.397006,
+    "longitude": 2.17057,
+    "nearbyStations": 15
+  },
+  {
+    "id": 363,
+    "type": "BIKE",
+    "latitude": 41.39076,
+    "longitude": 2.1744,
+    "nearbyStations": "23, 34, 105, 359, 412"
+  },
+  {
+    "id": 364,
+    "type": "BIKE",
+    "latitude": 41.393240000000006,
+    "longitude": 2.16343,
+    "nearbyStations": "72, 374"
+  },
+  {
+    "id": 365,
+    "type": "BIKE",
+    "latitude": 41.387499,
+    "longitude": 2.14702,
+    "nearbyStations": "75, 89"
+  },
+  {
+    "id": 366,
+    "type": "BIKE",
+    "latitude": 41.393037,
+    "longitude": 2.14358,
+    "nearbyStations": "74, 102"
+  },
+  {
+    "id": 367,
+    "type": "BIKE",
+    "latitude": 41.385057,
+    "longitude": 2.137331,
+    "nearbyStations": "75, 196, 201"
+  },
+  {
+    "id": 368,
+    "type": "BIKE",
+    "latitude": 41.396815000000004,
+    "longitude": 2.175714,
+    "nearbyStations": "1, 387"
+  },
+  {
+    "id": 369,
+    "type": "BIKE",
+    "latitude": 41.400168,
+    "longitude": 2.1779479999999998,
+    "nearbyStations": "1, 24"
+  },
+  {
+    "id": 370,
+    "type": "BIKE",
+    "latitude": 41.403735,
+    "longitude": 2.172987,
+    "nearbyStations": 370
+  },
+  {
+    "id": 371,
+    "type": "BIKE",
+    "latitude": 41.404027,
+    "longitude": 2.181264,
+    "nearbyStations": "218, 369"
+  },
+  {
+    "id": 372,
+    "type": "BIKE",
+    "latitude": 41.400166999999996,
+    "longitude": 2.1843619999999997,
+    "nearbyStations": "1, 16, 119, 426"
+  },
+  {
+    "id": 373,
+    "type": "BIKE",
+    "latitude": 41.375073,
+    "longitude": 2.161305,
+    "nearbyStations": "85, 86, 113"
+  },
+  {
+    "id": 374,
+    "type": "BIKE",
+    "latitude": 41.395,
+    "longitude": 2.1612299999999998,
+    "nearbyStations": "27, 68, 72"
+  },
+  {
+    "id": 375,
+    "type": "BIKE",
+    "latitude": 41.372153999999995,
+    "longitude": 2.180701,
+    "nearbyStations": "57, 114, 376, 410"
+  },
+  {
+    "id": 376,
+    "type": "BIKE",
+    "latitude": 41.371663,
+    "longitude": 2.180302,
+    "nearbyStations": "57, 361, 375, 378"
+  },
+  {
+    "id": 377,
+    "type": "BIKE",
+    "latitude": 41.37747,
+    "longitude": 2.183737,
+    "nearbyStations": "37, 38, 126, 402"
+  },
+  {
+    "id": 378,
+    "type": "BIKE",
+    "latitude": 41.378516,
+    "longitude": 2.176716,
+    "nearbyStations": "57, 114, 425"
+  },
+  {
+    "id": 379,
+    "type": "BIKE",
+    "latitude": 41.381709,
+    "longitude": 2.177308,
+    "nearbyStations": "37, 378, 401"
+  },
+  {
+    "id": 380,
+    "type": "BIKE",
+    "latitude": 41.385463,
+    "longitude": 2.174252,
+    "nearbyStations": "34, 36, 53"
+  },
+  {
+    "id": 381,
+    "type": "BIKE",
+    "latitude": 41.381686,
+    "longitude": 2.167816,
+    "nearbyStations": "51, 415"
+  },
+  {
+    "id": 382,
+    "type": "BIKE",
+    "latitude": 41.403938000000004,
+    "longitude": 2.2041880000000003,
+    "nearbyStations": "150, 154, 155, 162"
+  },
+  {
+    "id": 384,
+    "type": "BIKE",
+    "latitude": 41.380708,
+    "longitude": 2.146793,
+    "nearbyStations": 191
+  },
+  {
+    "id": 385,
+    "type": "BIKE",
+    "latitude": 41.387978000000004,
+    "longitude": 2.155266,
+    "nearbyStations": "76, 89, 110"
+  },
+  {
+    "id": 386,
+    "type": "BIKE",
+    "latitude": 41.375085999999996,
+    "longitude": 2.156848,
+    "nearbyStations": "85, 112, 236, 237"
+  },
+  {
+    "id": 387,
+    "type": "BIKE",
+    "latitude": 41.395796000000004,
+    "longitude": 2.178784,
+    "nearbyStations": "1, 3, 119"
+  },
+  {
+    "id": 388,
+    "type": "BIKE",
+    "latitude": 41.380593,
+    "longitude": 2.167418,
+    "nearbyStations": "54, 381"
+  },
+  {
+    "id": 389,
+    "type": "BIKE",
+    "latitude": 41.38739,
+    "longitude": 2.1875,
+    "nearbyStations": "6, 47, 118"
+  },
+  {
+    "id": 390,
+    "type": "BIKE",
+    "latitude": 41.386955,
+    "longitude": 2.18195,
+    "nearbyStations": "7, 389"
+  },
+  {
+    "id": 391,
+    "type": "BIKE",
+    "latitude": 41.422872999999996,
+    "longitude": 2.191204,
+    "nearbyStations": "238, 248, 289, 423"
+  },
+  {
+    "id": 392,
+    "type": "BIKE",
+    "latitude": 41.390595000000005,
+    "longitude": 2.190681,
+    "nearbyStations": "45, 47, 118, 409"
+  },
+  {
+    "id": 393,
+    "type": "BIKE",
+    "latitude": 41.402177,
+    "longitude": 2.197653,
+    "nearbyStations": "142, 152, 153, 428"
+  },
+  {
+    "id": 394,
+    "type": "BIKE",
+    "latitude": 41.387151,
+    "longitude": 2.1628380000000003,
+    "nearbyStations": "79, 80"
+  },
+  {
+    "id": 395,
+    "type": "BIKE",
+    "latitude": 41.386009,
+    "longitude": 2.170212,
+    "nearbyStations": "62, 64, 65"
+  },
+  {
+    "id": 396,
+    "type": "BIKE",
+    "latitude": 41.389028,
+    "longitude": 2.196844,
+    "nearbyStations": "49, 117, 397, 407"
+  },
+  {
+    "id": 397,
+    "type": "BIKE",
+    "latitude": 41.388894,
+    "longitude": 2.199334,
+    "nearbyStations": "69, 117, 170, 172"
+  },
+  {
+    "id": 398,
+    "type": "BIKE",
+    "latitude": 41.381011,
+    "longitude": 2.193502,
+    "nearbyStations": "11, 12, 124, 424"
+  },
+  {
+    "id": 400,
+    "type": "BIKE",
+    "latitude": 41.36958,
+    "longitude": 2.188017,
+    "nearbyStations": "31, 32, 33, 41, 124"
+  },
+  {
+    "id": 401,
+    "type": "BIKE",
+    "latitude": 41.381240999999996,
+    "longitude": 2.181838,
+    "nearbyStations": "37, 126, 402"
+  },
+  {
+    "id": 402,
+    "type": "BIKE",
+    "latitude": 41.380705,
+    "longitude": 2.182415,
+    "nearbyStations": "37, 38, 377, 401"
+  },
+  {
+    "id": 404,
+    "type": "BIKE",
+    "latitude": 41.365373999999996,
+    "longitude": 2.1330869999999997,
+    "nearbyStations": 184
+  },
+  {
+    "id": 405,
+    "type": "BIKE",
+    "latitude": 41.38551,
+    "longitude": 2.1519999999999997,
+    "nearbyStations": "110, 225"
+  },
+  {
+    "id": 406,
+    "type": "BIKE",
+    "latitude": 41.386511999999996,
+    "longitude": 2.164597,
+    "nearbyStations": "62, 79, 287"
+  },
+  {
+    "id": 407,
+    "type": "BIKE",
+    "latitude": 41.388471,
+    "longitude": 2.1928349999999996,
+    "nearbyStations": "46, 47, 69, 392"
+  },
+  {
+    "id": 408,
+    "type": "BIKE",
+    "latitude": 41.388988,
+    "longitude": 2.192283,
+    "nearbyStations": "46, 47, 392, 409"
+  },
+  {
+    "id": 409,
+    "type": "BIKE",
+    "latitude": 41.392272,
+    "longitude": 2.192556,
+    "nearbyStations": "45, 47, 149, 392"
+  },
+  {
+    "id": 410,
+    "type": "BIKE",
+    "latitude": 41.376433,
+    "longitude": 2.1787099999999997,
+    "nearbyStations": "57, 361, 375"
+  },
+  {
+    "id": 412,
+    "type": "BIKE",
+    "latitude": 41.389012,
+    "longitude": 2.1726669999999997,
+    "nearbyStations": "34, 64, 65, 105, 363"
+  },
+  {
+    "id": 413,
+    "type": "BIKE",
+    "latitude": 41.393512,
+    "longitude": 2.170718,
+    "nearbyStations": "15, 23, 25"
+  },
+  {
+    "id": 414,
+    "type": "BIKE",
+    "latitude": 41.393744,
+    "longitude": 2.1764509999999997,
+    "nearbyStations": "23, 363, 387"
+  },
+  {
+    "id": 415,
+    "type": "BIKE",
+    "latitude": 41.379374,
+    "longitude": 2.168921,
+    "nearbyStations": 54
+  },
+  {
+    "id": 416,
+    "type": "BIKE",
+    "latitude": 41.378134,
+    "longitude": 2.16965,
+    "nearbyStations": "54, 415"
+  },
+  {
+    "id": 418,
+    "type": "BIKE",
+    "latitude": 41.390943,
+    "longitude": 2.1802509999999997,
+    "nearbyStations": "6, 7, 359, 419"
+  },
+  {
+    "id": 419,
+    "type": "BIKE",
+    "latitude": 41.391299,
+    "longitude": 2.180828,
+    "nearbyStations": "4, 6, 8, 418"
+  },
+  {
+    "id": 420,
+    "type": "BIKE",
+    "latitude": 41.374213,
+    "longitude": 2.148082,
+    "nearbyStations": 93
+  },
+  {
+    "id": 421,
+    "type": "BIKE",
+    "latitude": 41.378031,
+    "longitude": 2.1391240000000002,
+    "nearbyStations": "98, 188, 210"
+  },
+  {
+    "id": 423,
+    "type": "BIKE",
+    "latitude": 41.420201,
+    "longitude": 2.189532,
+    "nearbyStations": "240, 248, 289"
+  },
+  {
+    "id": 424,
+    "type": "BIKE",
+    "latitude": 41.379632,
+    "longitude": 2.192662,
+    "nearbyStations": "11, 41, 124, 398"
+  },
+  {
+    "id": 425,
+    "type": "BIKE",
+    "latitude": 41.37652,
+    "longitude": 2.1749,
+    "nearbyStations": "57, 114"
+  },
+  {
+    "id": 426,
+    "type": "BIKE",
+    "latitude": 41.398305,
+    "longitude": 2.183023,
+    "nearbyStations": "1, 24, 119, 372"
+  },
+  {
+    "id": 427,
+    "type": "BIKE",
+    "latitude": 41.375336,
+    "longitude": 2.168007,
+    "nearbyStations": 232
+  },
+  {
+    "id": 428,
+    "type": "BIKE",
+    "latitude": 41.398389,
+    "longitude": 2.1962610000000002,
+    "nearbyStations": "142, 149, 153, 161"
+  },
+  {
+    "id": 451,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.37445,
+    "longitude": 2.159668,
+    "nearbyStations": "453, 486"
+  },
+  {
+    "id": 452,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.398747,
+    "longitude": 2.186289,
+    "nearbyStations": "459, 476"
+  },
+  {
+    "id": 453,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.379563,
+    "longitude": 2.16204,
+    "nearbyStations": "451, 480"
+  },
+  {
+    "id": 454,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.402448,
+    "longitude": 2.2041310000000003,
+    "nearbyStations": 469
+  },
+  {
+    "id": 455,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.388965999999996,
+    "longitude": 2.19917,
+    "nearbyStations": "467, 479"
+  },
+  {
+    "id": 456,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.389853,
+    "longitude": 2.128581,
+    "nearbyStations": "458, 470"
+  },
+  {
+    "id": 457,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.401519,
+    "longitude": 2.134235,
+    "nearbyStations": "465, 470"
+  },
+  {
+    "id": 458,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.384344,
+    "longitude": 2.1220849999999998,
+    "nearbyStations": "456, 471"
+  },
+  {
+    "id": 459,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.393941,
+    "longitude": 2.1814430000000002,
+    "nearbyStations": "452, 492"
+  },
+  {
+    "id": 460,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.385702,
+    "longitude": 2.177316,
+    "nearbyStations": "485, 493"
+  },
+  {
+    "id": 461,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.384111,
+    "longitude": 2.1427400000000003,
+    "nearbyStations": "452, 481"
+  },
+  {
+    "id": 462,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.390125,
+    "longitude": 2.143221,
+    "nearbyStations": "461, 487"
+  },
+  {
+    "id": 463,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.375244,
+    "longitude": 2.169795,
+    "nearbyStations": "453, 480"
+  },
+  {
+    "id": 464,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.427727000000004,
+    "longitude": 2.177205,
+    "nearbyStations": "468, 488"
+  },
+  {
+    "id": 465,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.40542,
+    "longitude": 2.142456,
+    "nearbyStations": "457, 472"
+  },
+  {
+    "id": 466,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.415745,
+    "longitude": 2.180684,
+    "nearbyStations": "475, 488"
+  },
+  {
+    "id": 467,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.38582,
+    "longitude": 2.1941349999999997,
+    "nearbyStations": "455, 479"
+  },
+  {
+    "id": 468,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.430201000000004,
+    "longitude": 2.187974,
+    "nearbyStations": "464, 488"
+  },
+  {
+    "id": 469,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.404362,
+    "longitude": 2.197132,
+    "nearbyStations": "454, 476"
+  },
+  {
+    "id": 470,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.397921000000004,
+    "longitude": 2.125411,
+    "nearbyStations": "457, 471"
+  },
+  {
+    "id": 471,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.39415,
+    "longitude": 2.114973,
+    "nearbyStations": "458, 470"
+  },
+  {
+    "id": 472,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.407353,
+    "longitude": 2.151341,
+    "nearbyStations": "465, 474"
+  },
+  {
+    "id": 473,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.404459,
+    "longitude": 2.214978,
+    "nearbyStations": "454, 482"
+  },
+  {
+    "id": 474,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.3989,
+    "longitude": 2.153668,
+    "nearbyStations": "483, 486"
+  },
+  {
+    "id": 475,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.408528000000004,
+    "longitude": 2.1693849999999997,
+    "nearbyStations": "483, 496"
+  },
+  {
+    "id": 476,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.402459,
+    "longitude": 2.19042,
+    "nearbyStations": "452, 469"
+  },
+  {
+    "id": 477,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.376647999999996,
+    "longitude": 2.178745,
+    "nearbyStations": "478, 493"
+  },
+  {
+    "id": 478,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.3798,
+    "longitude": 2.1891,
+    "nearbyStations": "467, 477"
+  },
+  {
+    "id": 479,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.387298,
+    "longitude": 2.196595,
+    "nearbyStations": "455, 467"
+  },
+  {
+    "id": 480,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.381516,
+    "longitude": 2.170239,
+    "nearbyStations": "463, 493"
+  },
+  {
+    "id": 481,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.383036,
+    "longitude": 2.150337,
+    "nearbyStations": "461, 495"
+  },
+  {
+    "id": 482,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.413059999999994,
+    "longitude": 2.22123,
+    "nearbyStations": "473, 489"
+  },
+  {
+    "id": 483,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.401752,
+    "longitude": 2.160748,
+    "nearbyStations": "474, 486"
+  },
+  {
+    "id": 484,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.388101,
+    "longitude": 2.1669970000000003,
+    "nearbyStations": "485, 494"
+  },
+  {
+    "id": 485,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.389914000000005,
+    "longitude": 2.173239,
+    "nearbyStations": "460, 492"
+  },
+  {
+    "id": 486,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.396934,
+    "longitude": 2.1594450000000003,
+    "nearbyStations": "451, 474"
+  },
+  {
+    "id": 487,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.38921,
+    "longitude": 2.154,
+    "nearbyStations": "462, 481"
+  },
+  {
+    "id": 488,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.423976,
+    "longitude": 2.184391,
+    "nearbyStations": "464, 468"
+  },
+  {
+    "id": 489,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.409532,
+    "longitude": 2.188282,
+    "nearbyStations": "469, 482"
+  },
+  {
+    "id": 491,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.37252,
+    "longitude": 2.12898,
+    "nearbyStations": "458, 495"
+  },
+  {
+    "id": 492,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.394232,
+    "longitude": 2.175278,
+    "nearbyStations": "459, 485"
+  },
+  {
+    "id": 493,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.381859999999996,
+    "longitude": 2.177086,
+    "nearbyStations": "460, 477"
+  },
+  {
+    "id": 494,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.389480999999996,
+    "longitude": 2.1653569999999998,
+    "nearbyStations": "484, 485"
+  },
+  {
+    "id": 495,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.377190999999996,
+    "longitude": 2.149283,
+    "nearbyStations": "451, 481"
+  },
+  {
+    "id": 496,
+    "type": "BIKE-ELECTRIC",
+    "latitude": 41.404871,
+    "longitude": 2.175141,
+    "nearbyStations": "452, 475"
+  }
+]
