@@ -15,12 +15,7 @@ options = {
 var map = new mapboxgl.Map(options);
 
 
-// add control to mapbox
-//var nav = new mapboxgl.NavigationControl();
-//map.addControl(nav, 'top-left');
-
-
-// now with the pizzashops
+// add point-layer and markers+popup
 $.getJSON('./data/st_bicing_clean.json', function(stationRows){
 
   stationRows.forEach(function(station){
@@ -43,11 +38,40 @@ $.getJSON('./data/st_bicing_clean.json', function(stationRows){
   })
 })
 
-map.on('load', function(){
-  map.addSource()
-})
+// add polygon layer: bike lanes
+// https://opendata-ajuntament.barcelona.cat/data/en/dataset/carril-bici
+map.on('load', function () {
+        map.addSource('maine', {
+            'type': 'geojson',
+            'data': './data/CARRIL_BICI.geojson'
+        });
+        map.addLayer({
+            'id': 'maine',
+            'type': 'line',
+            'source': 'maine',
+            'layout': {},
+            'paint': {
+                'line-color': '#088',
+                'line-width': 3
+            }
+        });
+    });
 
-/*
-map.addLayer({
-
-})*/
+// add polygon layer: cycle paths (circulation speed== 10, 20 or 30 km/h)
+// https://opendata-ajuntament.barcelona.cat/data/en/dataset/vies-ciclables
+map.on('load', function () {
+        map.addSource('lanes_p', {
+            'type': 'geojson',
+            'data': './data/VIES_CICLABLES.geojson'
+        });
+        map.addLayer({
+            'id': 'lanes_p',
+            'type': 'line',
+            'source': 'lanes_p',
+            'layout': {},
+            'paint': {
+                'line-color': '#f5da42',
+                'line-width': 1
+            }
+        });
+    });
