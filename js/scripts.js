@@ -41,15 +41,17 @@ $.getJSON('./data/st_bicing_clean.json', function(stationRows){
 // add polygon layer: bike lanes
 // https://opendata-ajuntament.barcelona.cat/data/en/dataset/carril-bici
 map.on('load', function () {
-        map.addSource('maine', {
+        map.addSource('bike_lanes', {
             'type': 'geojson',
             'data': './data/CARRIL_BICI.geojson'
         });
         map.addLayer({
-            'id': 'maine',
+            'id': 'bike_lanes',
             'type': 'line',
-            'source': 'maine',
-            'layout': {},
+            'source': 'bike_lanes',
+            'layout': {
+              'visibility':'visible'
+            },
             'paint': {
                 'line-color': '#088',
                 'line-width': 3
@@ -60,18 +62,53 @@ map.on('load', function () {
 // add polygon layer: cycle paths (circulation speed== 10, 20 or 30 km/h)
 // https://opendata-ajuntament.barcelona.cat/data/en/dataset/vies-ciclables
 map.on('load', function () {
-        map.addSource('lanes_p', {
+        map.addSource('cycle_paths', {
             'type': 'geojson',
             'data': './data/VIES_CICLABLES.geojson'
         });
         map.addLayer({
-            'id': 'lanes_p',
+            'id': 'cycle_paths',
             'type': 'line',
-            'source': 'lanes_p',
-            'layout': {},
+            'source': 'cycle_paths',
+            'layout': {
+              'visibility':'visible'
+            },
             'paint': {
                 'line-color': '#f5da42',
                 'line-width': 1
             }
         });
     });
+
+// enumerate ids of the layers
+var toggleableLayerIds = ['bike_lanes', 'cycle_paths'];
+
+// set up the corresponding toggle button for each layer
+    for (var i = 0; i < toggleableLayerIds.length; i++) {
+        var id = toggleableLayerIds[i];
+
+        var link = document.createElement('a');
+        link.href = '#';
+        link.className = 'active';
+        link.textContent = id;
+
+        link.onclick = function (e) {
+            var clickedLayer = this.textContent;
+            e.preventDefault();
+            e.stopPropagation();
+
+            var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+            // toggle layer visibility by changing the layout object's visibility property
+            if (visibility === 'visible') {
+                map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+                this.className = '';
+            } else {
+                this.className = 'active';
+                map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+            }
+        };
+
+        var layers = document.getElementById('menu');
+        layers.appendChild(link);
+    }

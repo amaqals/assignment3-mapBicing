@@ -14,6 +14,10 @@
 <body>
   <div id='mapContainer'></div>
 
+  <!-- menu buttons -->
+  <nav id="menu"></nav>
+
+  <!-- upper left box -->
   <div id='console'>
     <h1>The public bicycle network in Barcelona</h1>
     <!-- <p>Data: <a href='https://opendata-ajuntament.barcelona.cat/data/en/dataset/carril-bici'>Bicing stations and bicycle lanes</a> in BCN, Jan 2019</p>-->
@@ -22,9 +26,17 @@
             <a href='https://opendata-ajuntament.barcelona.cat/data/en/dataset/vies-ciclables'>cycle paths</a>
             in Barcelona. The data presented are from 2019. To respond to the needs arising from the pandemic, Barcelona City Council has made an effort to expand the network of roads and bike lanes in the city. The data, however, have not yet been updated, so this map does not reflect the reality of 2021.</p>
 
-
-  </div>
-
+            <!-- legend -->
+             <div id="map-legend" class="legend">
+             <h4>Bicing station types</h4>
+<!--
+             <div><span style="{background-image: url('../icons/bicing-icon.png'); width: 15px; height: 15px;}"></span>normal bikes</div>
+             <div><span style="{background-image: url('../icons/bicing-icon-e.png'); width: 15px; height: 15px;}"></span>electric bikes</div>
+-->
+             <div><span style="background-color: #0364ff"></span>normal bikes</div>
+             <div><span style="background-color: #ff0b03"></span>electric bikes</div>
+             </div>
+</div>
 
 <!-- JSON layers-->
 <!--
